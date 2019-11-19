@@ -37,4 +37,3 @@ resource "aws_db_instance" "example" {
 
   password            = var.db_password
 }
-
