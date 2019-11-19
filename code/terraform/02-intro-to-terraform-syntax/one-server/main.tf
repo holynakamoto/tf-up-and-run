@@ -17,5 +17,3 @@ resource "aws_instance" "example" {
     Name = "terraform-example"
   }
 }
-
-/*
